@@ -48,4 +48,36 @@ The server can actually send code, literal code, the idea was JavaScript, at the
 
 ## Resource naming and routing
 
-Example usages
+Resource is the item that the client wants to interact with. It can be a user, a product, a blog post, etc.
+
+Routing basically means the endpoint to get into those resources
+
+If you wanna access movies:
+
+`GET /movies`
+
+> [!IMPORTANT]
+> Not movie, should be /movies (plural)
+
+If you wanna access specific movie by id:
+
+`GET /movies/1`
+
+Get the ratings for specific movie:
+
+`GET /movies/1/ratings`
+
+If you wanna rate a movie, you can't do
+
+`POST /movies/1/rate`
+
+rather you should do
+
+`POST /movies/1/ratings`
+
+> [!TIP]
+> POST/PATCH based on create or update operation behind the scene
+
+If you wanna delete a rating:
+
+`DELETE /movies/1/ratings`
