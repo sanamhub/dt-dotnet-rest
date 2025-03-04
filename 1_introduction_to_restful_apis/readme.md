@@ -52,18 +52,18 @@ Resource is the item that the client wants to interact with. It can be a user, a
 
 Routing basically means the endpoint to get into those resources
 
-If you wanna access movies:
+If you wanna access movies
 
 `GET /movies`
 
 > [!IMPORTANT]
 > Not movie, should be /movies (plural)
 
-If you wanna access specific movie by id:
+If you wanna access specific movie by id
 
 `GET /movies/1`
 
-Get the ratings for specific movie:
+Get the ratings for specific movie
 
 `GET /movies/1/ratings`
 
@@ -78,6 +78,10 @@ rather you should do
 > [!TIP]
 > POST/PATCH based on create or update operation behind the scene
 
-If you wanna delete a rating:
+If you wanna delete the ratings
 
 `DELETE /movies/1/ratings`
+
+If you wanna delete a rating
+
+`DELETE /movies/1/ratings/1`
