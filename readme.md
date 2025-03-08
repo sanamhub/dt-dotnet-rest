@@ -1,5 +1,4 @@
 # REST APIs in .NET
 
-## Introduction to RESTful APIs
-
-Navigate [Here](/1_introduction_to_restful_apis/readme.md)
+- [Introduction to RESTful APIs](/1_introduction_to_restful_apis/readme.md)
+- [Getting started with REST API](/2_getting_started_with_rest_api/readme.md)
