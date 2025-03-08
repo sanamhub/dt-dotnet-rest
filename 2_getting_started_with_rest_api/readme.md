@@ -1,6 +1,6 @@
 # Getting started with REST API
 
-This is a practical phase, refer to project [ResetApiCourse](./ResetApiCourse.sln) for more details.
+This is a practical phase, refer to project [ResetApiCourse](RestApiCourse.sln) for more details.
 
 **Topics covered:**
 
