@@ -5,3 +5,4 @@
 - [Beyond Basic CRUD](/3_beyond_basic_crud/readme.md)
 - [Authentication and authorization](/4_authentication_and_authorization/readme.md)
 - [User specific actions](/5_user_specific_actions/readme.md)
+- [Implementing advanced features](/6_implementing_advanced_features/readme.md)
