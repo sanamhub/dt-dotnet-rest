@@ -8,3 +8,4 @@
 - [Implementing advanced features](/6_implementing_advanced_features/readme.md)
 - [Building an SDK for our API](/7_building_an_sdk_for_our_api/readme.md)
 - [Migrating to Minimal API](/8_migrating_to_minimal_api/readme.md)
+- [.NET 9](9_dotnet9/readme.md)
