@@ -24,3 +24,5 @@ This is a practical phase, refer to project [ResetApiCourse](./ResetApiCourse.sl
 
 > [!NOTE]
 > Project i.e. ./ResetApiCourse.sln is in final state
+
+> Recap: First we created project, and we structure and architecture of our codebase to have the API, application and contracts projects separated from each other for better separation of concerns. Then we defined our API contracts and made a temporary in-memory database so we can implement our endpoints. Then we created all crud aspects of the API so create, read, update, and delete and we perfected all of them and then we introduced mapping and a dedicated space to store all the API endpoints.
