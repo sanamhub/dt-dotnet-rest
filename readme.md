@@ -6,3 +6,5 @@
 - [Authentication and authorization](/4_authentication_and_authorization/readme.md)
 - [User specific actions](/5_user_specific_actions/readme.md)
 - [Implementing advanced features](/6_implementing_advanced_features/readme.md)
+- [Building an SDK for our API](/7_building_an_sdk_for_our_api/readme.md)
+- [Migrating to Minimal API](/8_migrating_to_minimal_api/readme.md)
