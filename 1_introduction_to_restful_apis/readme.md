@@ -212,3 +212,6 @@ RESET APIs have two categories of things going wrong:
 | Fault    | Valid   | 500          | The request was actually valid but something on the server happened so server couldn't process it eg. database down, DDoS, bug, etc |
 
 ![rest_errors](contents/image4.png)
+
+## Useful Links
+- [RESTful API Best Practices for .NET Developers - codewithmukesh](https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/)
